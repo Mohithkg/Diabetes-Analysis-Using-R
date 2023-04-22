@@ -1,0 +1,16 @@
+ABSTRACT
+
+Diabetes is a chronic medical condition that affects millions of people worldwide. The Pima Indian community in Arizona is one of the populations
+that has a high incidence of diabetes. The aim of this project is to use the Pima Indian Diabetes dataset to analyze the risk factors associated with
+diabetes in this population. The dataset contains medical records of few patients and includes various parameters.
+
+The project will employ data and statistical analysis techniques to gain insights into the relationships between different variables and the likelihood of diabetes. 
+Exploratory data analysis will be performed to identify any trends or patterns in the data, and various statistical models will be used to build a predictive model. 
+This will help in identifying the key risk factors and help medical practitioners in predicting the likelihood of diabetes in patients.
+
+The results of the analysis will be used to generate a report that summarizes the findings and provides recommendations for diabetes prevention and management in
+the Pima Indian community. The report will be beneficial for healthcare providers, researchers, and policy-makers in developing targeted interventions to reduce 
+the burden of diabetes in this population.
+
+Overall, this project aims to use statistical and data analysis to better understand the factors that contribute to the high incidence of diabetes in 
+the Pima Indian community and to provide recommendations for reducing its impact.
